@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\bin\Release\billiards_bitmap.exe.config
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\bin\Release\billiards_bitmap.exe
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\bin\Release\billiards_bitmap.pdb
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.csprojAssemblyReference.cache
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.GameFrame.resources
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.Properties.Resources.resources
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.csproj.GenerateResource.cache
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.exe
+C:\Users\david\Desktop\game\billiards_bitmap\billiards_bitmap\obj\Release\billiards_bitmap.pdb
