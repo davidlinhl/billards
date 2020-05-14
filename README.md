@@ -1,2 +1,2 @@
 # billards
-A C# MFC billards game
+A C# .net billards game
